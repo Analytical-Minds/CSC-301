@@ -2,13 +2,6 @@
 #include <string>
 using namespace std;
 
-//Analytical Minds Group
-//Osasumwen Osazuwa: 30072729
-//Daniel Igwe: 
-//Emmanuella:
-//Joseph Inaku:
-//Emmanuel:
-
 /* ================================
    1. FACTORIAL CALCULATION
    ================================ */
