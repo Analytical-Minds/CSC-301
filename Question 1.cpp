@@ -1,13 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Analytical Minds Group
-// Osasumwen Osazuwa: 30072729
-// Daniel Igwe:
-// Emmanuella:
-// Joseph Inaku:
-// Emmanuel: 
-
 // Node structure
 struct Node {
     int data;
